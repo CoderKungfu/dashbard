@@ -13,7 +13,7 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'slim-rails'
 gem 'puma'
-gem 'react-rails'
+gem 'react-rails', '~> 1.4.0'
 
 group :development do
   gem 'byebug'
